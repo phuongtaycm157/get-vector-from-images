@@ -1,0 +1,1 @@
+{'daisy': 0.0, 'dandelion': 1.0, 'rose': 2.0, 'sunflower': 3.0, 'tulip': 4.0}
